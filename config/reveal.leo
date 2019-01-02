@@ -106,6 +106,14 @@
 <v t="leo.20190102215512.2"><vh>W15_6內容</vh></v>
 </v>
 </v>
+<v t="leo.20190102224347.1" a="E"><vh>12/28 第16週</vh>
+<v t="leo.20190102224347.2" a="E"><vh>W15_1</vh>
+<v t="leo.20190102224347.3"><vh>W15_1內容</vh></v>
+</v>
+<v t="leo.20190102224347.4" a="E"><vh>W15_2</vh>
+<v t="leo.20190102224347.5"><vh>W15_2內容</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -894,5 +902,54 @@ B.組員:
 
   ↑把上述列出的項目加入網站
 </t>
+<t tx="leo.20190102224347.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102224347.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102224347.3">### 12/28 第16週
+
+◎組長與組員進度:
+
+A.組長:將MCAD設計繪圖零組件轉進V-rep並設定IK運算。(by 22) 
+
+</t>
+<t tx="leo.20190102224347.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102224347.5">B.組員:
+
+1. 將每週的工作進度分配表完成。(by 05)
+
+2. 處理網站上衝突等問題及修改進度分配等內容。(by 01)
+
+3. 開始進行期末報告編寫。(by 01,05)
+
+4. 修改部分零件圖及組合圖配置等問題。(by 18)
+
+5. 協助組長完成設定IK運算。(by 11,18,50)</t>
 </tnodes>
 </leo_file>
