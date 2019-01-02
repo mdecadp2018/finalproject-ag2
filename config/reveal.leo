@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -45,11 +45,14 @@
 <v t="leo.20190102191842.4" a="E"><vh>W12_2</vh>
 <v t="leo.20190102191842.5"><vh>W12_2內容</vh></v>
 </v>
-<v t="leo.20190102191842.6" a="E"><vh>W12_3</vh>
-<v t="leo.20190102191842.7"><vh>W12_3內容</vh></v>
+<v t="leo.20190102223200.1" a="E"><vh>W12_3</vh>
+<v t="leo.20190102223200.2"><vh>W12_3內容</vh></v>
 </v>
-<v t="leo.20190102192019.1" a="E"><vh>W12_4</vh>
-<v t="leo.20190102192019.2"><vh>W12_4內容</vh></v>
+<v t="leo.20190102191842.6" a="E"><vh>W12_4</vh>
+<v t="leo.20190102191842.7"><vh>W12_4內容</vh></v>
+</v>
+<v t="leo.20190102192019.1" a="E"><vh>W12_5</vh>
+<v t="leo.20190102192019.2"><vh>W12_5內容</vh></v>
 </v>
 </v>
 <v t="leo.20190102195003.1"><vh>12/07 第13週</vh>
@@ -83,7 +86,7 @@
 <v t="leo.20190102213523.7"><vh>W14_3內容</vh></v>
 </v>
 </v>
-<v t="leo.20190102214504.1" a="E"><vh>12/21 第15週</vh>
+<v t="leo.20190102214504.1"><vh>12/21 第15週</vh>
 <v t="leo.20190102214504.2" a="E"><vh>W15_1</vh>
 <v t="leo.20190102214504.3"><vh>W15_1內容</vh></v>
 </v>
@@ -200,15 +203,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018 CADP AG2分組簡報
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [AG2](https://github.com/mdecadp2018/finalproject-ag2)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 CADP AG2網誌](https://mdecadp2018.github.io/finalproject-ag2/content/index.html)
 
 
 </t>
@@ -525,13 +528,6 @@ A. 組長:
   
 * independent study自主學習:組員自主學習進度與內容
 
-* issue＆solution問題與解決方法:各組遇到的問題與如何解決問題
-
-* experience心得:各組組員分組專題後的心得感想 
-
-* attend＆absence出缺席:記錄各組出席狀況
-
-  ↑把上述列出的項目加入網站
 </t>
 <t tx="leo.20190102191842.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -566,7 +562,7 @@ A. 組長:
 </t>
 <t tx="leo.20190102192019.2">↙接球的裝置(by 05)
 
-&lt;img src ="./../images/week12-draw.jpg"  width="800" height="550" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/week12-draw.jpg"  width="750" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 ↗可以讓球上升的裝置(by 05)↑</t>
 <t tx="leo.20190102195003.1">&lt;section&gt;
@@ -685,7 +681,7 @@ A. 組長:
 </t>
 <t tx="leo.20190102212553.2">↘集球處弧度設計 / 凸輪驅動的裝置設計↙
 
-&lt;img src ="./../images/week13-draw.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/week13-draw.jpg"  width="600" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 ↑加入旋轉軸心 / 整體設計圖↑
 
@@ -756,7 +752,7 @@ A.組長:
 </t>
 <t tx="leo.20190102213523.7">↓凸輪設計草圖 / 樓梯桿長設計↓
 
-&lt;img src ="./../images/week14-draw.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/week14-draw.jpg"  width="600" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 ↑階梯設計 / 樓梯外框設計↑
 
@@ -877,6 +873,26 @@ B.組員:
 
 &lt;img src ="./../images/combination.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
+</t>
+<t tx="leo.20190102223200.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102223200.2">* issue＆solution問題與解決方法:各組遇到的問題與如何解決問題
+
+* experience心得:各組組員分組專題後的心得感想 
+
+* attend＆absence出缺席:記錄各組出席狀況
+
+  ↑把上述列出的項目加入網站
 </t>
 </tnodes>
 </leo_file>
