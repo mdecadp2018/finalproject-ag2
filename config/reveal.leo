@@ -21,11 +21,87 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190102184955.1"><vh>11/23 第11週</vh>
+<v t="leo.20190102184955.2" a="E"><vh>W11_1</vh>
+<v t="leo.20190102184955.3"><vh>W11_1內容</vh></v>
+</v>
+<v t="leo.20190102184955.4" a="E"><vh>W11_2</vh>
+<v t="leo.20190102184955.5"><vh>W11_2內容</vh></v>
+</v>
+<v t="leo.20190102184955.6" a="E"><vh>W11_3</vh>
+<v t="leo.20190102184955.7"><vh>W11_3內容</vh></v>
+</v>
+</v>
+<v t="leo.20190102191842.1"><vh>11/30 第12週</vh>
+<v t="leo.20190102191842.2" a="E"><vh>W12_1</vh>
+<v t="leo.20190102191842.3"><vh>W12_1內容</vh></v>
+</v>
+<v t="leo.20190102191842.4" a="E"><vh>W12_2</vh>
+<v t="leo.20190102191842.5"><vh>W12_2內容</vh></v>
+</v>
+<v t="leo.20190102191842.6" a="E"><vh>W12_3</vh>
+<v t="leo.20190102191842.7"><vh>W12_3內容</vh></v>
+</v>
+<v t="leo.20190102192019.1" a="E"><vh>W12_4</vh>
+<v t="leo.20190102192019.2"><vh>W12_4內容</vh></v>
+</v>
+</v>
+<v t="leo.20190102195003.1"><vh>12/07 第13週</vh>
+<v t="leo.20190102195003.2" a="E"><vh>W13_1</vh>
+<v t="leo.20190102195003.3"><vh>W13_1內容</vh></v>
+</v>
+<v t="leo.20190102195003.4" a="E"><vh>W13_2</vh>
+<v t="leo.20190102195003.5"><vh>W13_2內容</vh></v>
+</v>
+<v t="leo.20190102195003.6" a="E"><vh>W13_3</vh>
+<v t="leo.20190102195003.7"><vh>W13_3內容</vh></v>
+</v>
+<v t="leo.20190102195003.8" a="E"><vh>W13_4</vh>
+<v t="leo.20190102195003.9"><vh>W13_4內容</vh></v>
+</v>
+<v t="leo.20190102200652.1" a="E"><vh>W13_5</vh>
+<v t="leo.20190102200652.2"><vh>W13_5內容</vh></v>
+</v>
+<v t="leo.20190102212553.1" a="E"><vh>W13_6</vh>
+<v t="leo.20190102212553.2"><vh>W13_6內容</vh></v>
+</v>
+</v>
+<v t="leo.20190102213523.1"><vh>12/14 第14週</vh>
+<v t="leo.20190102213523.2" a="E"><vh>W14_1</vh>
+<v t="leo.20190102213523.3"><vh>W14_1內容</vh></v>
+</v>
+<v t="leo.20190102213523.4" a="E"><vh>W14_2</vh>
+<v t="leo.20190102213523.5"><vh>W14_2內容</vh></v>
+</v>
+<v t="leo.20190102213523.6" a="E"><vh>W14_3</vh>
+<v t="leo.20190102213523.7"><vh>W14_3內容</vh></v>
+</v>
+</v>
+<v t="leo.20190102214504.1" a="E"><vh>12/21 第15週</vh>
+<v t="leo.20190102214504.2" a="E"><vh>W15_1</vh>
+<v t="leo.20190102214504.3"><vh>W15_1內容</vh></v>
+</v>
+<v t="leo.20190102214504.4" a="E"><vh>W15_2</vh>
+<v t="leo.20190102214504.5"><vh>W15_2內容</vh></v>
+</v>
+<v t="leo.20190102214504.6" a="E"><vh>W15_3</vh>
+<v t="leo.20190102214504.7"><vh>W15_3內容</vh></v>
+</v>
+<v t="leo.20190102214547.1" a="E"><vh>W15_4</vh>
+<v t="leo.20190102214547.2"><vh>W15_4內容</vh></v>
+</v>
+<v t="leo.20190102214549.1" a="E"><vh>W15_5</vh>
+<v t="leo.20190102214549.2"><vh>W15_5內容</vh></v>
+</v>
+<v t="leo.20190102215512.1" a="E"><vh>W15_6</vh>
+<v t="leo.20190102215512.2"><vh>W15_6內容</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -325,6 +401,482 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190102184955.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102184955.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102184955.3">### 11/23 第11週
+
+◎組長與組員進度:
+利用 Heroku 雲端服務，伺服各分組的期末專題倉儲中的動態程式，並與 Github 倉儲內容保持自動同步。
+
+</t>
+<t tx="leo.20190102184955.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102184955.5">### 步驟：
+
+*  先創一個heroku的帳號
+
+*  登入後,按new → create new app → 名字打 cadp2018-ag2-m2
+
+*  先去 start.bat 路徑設定 %Disk%:\heroku\bin;
+
+*  在從命令列打heroku--version → heroku login
+
+*  再從settings找到https://git.heroku.com/cadp2018-ag2-m2.git 的網址
+</t>
+<t tx="leo.20190102184955.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102184955.7">*  至https://github.com/mdecadp2018/finalproject-ag2 fork自己的帳號
+
+*  git clone https://github.com/mdecadp2018/finalproject-ag2 至tmp底下的資料夾 ag2
+
+*  git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
+ 
+*  將ag2資料夾中的檔案複製到ag2-m2的資料夾中
+
+*  git add . → git commit -m "  " → git push
+</t>
+<t tx="leo.20190102191842.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102191842.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102191842.3">### 11/30 第12週
+
+◎組長與組員進度:
+
+A. 組長:
+將網站的版面架構好，並將簽到表補上。
+  
+  (by 22)
+
+</t>
+<t tx="leo.20190102191842.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102191842.5">步驟:
+* introduction介紹:(a)專題名稱(b)members組員 
+  
+* course課程:每週組別學習紀錄
+  
+* onshape:翻譯網站內容，用法 
+  
+* independent study自主學習:組員自主學習進度與內容
+
+* issue＆solution問題與解決方法:各組遇到的問題與如何解決問題
+
+* experience心得:各組組員分組專題後的心得感想 
+
+* attend＆absence出缺席:記錄各組出席狀況
+
+  ↑把上述列出的項目加入網站
+</t>
+<t tx="leo.20190102191842.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102191842.7">B. 各組員:
+  討論要做的項目為鋼球運動系統,並上網找資料。
+  
+  https://www.youtube.com/watch?v=3OGyLHu24rk
+  以上述網址為出發構想開始設計想加入系統內的物件。
+  (by 01,05,11,18,50)
+</t>
+<t tx="leo.20190102192019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102192019.2">↙接球的裝置(by 05)
+
+&lt;img src ="./../images/week12-draw.jpg"  width="800" height="550" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+↗可以讓球上升的裝置(by 05)↑</t>
+<t tx="leo.20190102195003.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102195003.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102195003.3">### 12/07 第13週
+
+◎組長與組員進度:
+
+A. 組長: 
+
+  1. 利用google docs邀請各個組員進入編輯。
+  2. 開始編寫期末報告，對報告進行排版及編輯。
+  3. 分配組員工作，記錄各組員的工作項目及進度。
+  
+    (by 22)
+
+</t>
+<t tx="leo.20190102195003.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102195003.5">### 步驟:
+
+在共用合作功能裡輸入同樣有Gmail 帳號之人的電子郵件地址，邀請組員共同參與，編輯同一份文件，組員若要進行編輯或檢視，只要登入就能開始存取。
+</t>
+<t tx="leo.20190102195003.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102195003.7">B.組員:
+* 開始進行onshape電腦繪圖，開啟共享讓組員共同編輯。(by 18)
+
+使球上升的裝置↗
+&lt;img src ="./../images/flywheel-onshape.jpg"  width="350" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190102195003.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102195003.9">↓設計圓球大小
+
+&lt;img src ="./../images/design ball size.jpg"  width="650" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190102200652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102200652.2">* 構想設計圖及思考如何加入其他裝置:
+  
+ (1) 加入以凸輪驅動的裝置(by 01,11,50)
+
+ (2) 在類似彈珠台的裝置加入旋轉軸心,使球可以
+
+   分2種不同的軌道行動(by 01,11,50)
+
+ (3) 設計集球處的弧度並繪製草圖(by 05)
+ 
+ (4)手繪出構想設計圖(by 05) </t>
+<t tx="leo.20190102212553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102212553.2">↘集球處弧度設計 / 凸輪驅動的裝置設計↙
+
+&lt;img src ="./../images/week13-draw.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+↑加入旋轉軸心 / 整體設計圖↑
+
+(by 05)</t>
+<t tx="leo.20190102213523.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102213523.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102213523.3">### 12/14 第14週
+
+◎組長與組員進度:
+
+A.組長:
+ 
+  1. 了解V-rep的用法
+  2. 找凸輪的設計資料，並與組員討論                              https://www.instagram.com/p/BrWRJc6nrh-/?utm_source=ig_share_sheet&amp;igshid=xsae82teciwg
+  3. 與組員討論設計圖的配置有無問題
+  
+  (by 22)
+
+
+</t>
+<t tx="leo.20190102213523.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102213523.5">B.組員:
+1. 設計凸輪如何運轉可以讓階梯上下活動,並畫出設計草圖(by 18)
+
+2. 設計部分零件尺寸並畫出設計草圖(by 05)
+   
+3. 協助組長了解V-rep (by 01,11,50)</t>
+<t tx="leo.20190102213523.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102213523.7">↓凸輪設計草圖 / 樓梯桿長設計↓
+
+&lt;img src ="./../images/week14-draw.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+↑階梯設計 / 樓梯外框設計↑
+
+(by 05,18)</t>
+<t tx="leo.20190102214504.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102214504.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102214504.3">### 12/21 第15週
+
+◎組長與組員進度:
+
+A.組長:
+ 監督組員進度及幫助各組員完成工作，排除困難。(by 22)
+  
+B.組員:
+  將每個部分的電腦繪圖完成，並組裝。
+
+
+
+</t>
+<t tx="leo.20190102214504.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102214504.5">↓各軌道之完成圖(by 18)
+
+&lt;img src ="./../images/orbit-onshape.jpg"  width="750" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190102214504.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102214504.7">↓其他零件完成圖(by 18)
+
+&lt;img src ="./../images/other-prt-onshape.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190102214547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102214547.2">↓軌道完成圖(by 05)
+
+&lt;img src ="./../images/orbit-onshape-end.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190102214549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102214549.2">↓其他組合零件(by 05)
+
+&lt;img src ="./../images/other-prt-onshape-2.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190102215512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190102215512.2">↓組合圖(by 18,05)
+
+&lt;img src ="./../images/combination.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 </t>
 </tnodes>
 </leo_file>
