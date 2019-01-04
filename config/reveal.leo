@@ -39,7 +39,7 @@
 </v>
 </v>
 <v t="leo.20190102191842.1"><vh>11/30 第12週</vh>
-<v t="leo.20190102191842.2" a="E"><vh>W12_1</vh>
+<v t="leo.20190102191842.2"><vh>W12_1</vh>
 <v t="leo.20190102191842.3"><vh>W12_1內容</vh></v>
 </v>
 <v t="leo.20190102191842.4" a="E"><vh>W12_2</vh>
@@ -104,6 +104,25 @@
 </v>
 <v t="leo.20190102215512.1" a="E"><vh>W15_6</vh>
 <v t="leo.20190102215512.2"><vh>W15_6內容</vh></v>
+</v>
+</v>
+<v t="leo.20190102224347.1"><vh>12/28 第16週</vh>
+<v t="leo.20190102224347.2" a="E"><vh>W16_1</vh>
+<v t="leo.20190102224347.3"><vh>W16_1內容</vh></v>
+</v>
+<v t="leo.20190102224347.4" a="E"><vh>W16_2</vh>
+<v t="leo.20190102224347.5"><vh>W16_2內容</vh></v>
+</v>
+</v>
+<v t="leo.20190104104115.1"><vh>01/04 第17週</vh>
+<v t="leo.20190104104115.2" a="E"><vh>W17_1</vh>
+<v t="leo.20190104104115.3"><vh>W17_1內容</vh></v>
+</v>
+<v t="leo.20190104104115.4" a="E"><vh>W17_2</vh>
+<v t="leo.20190104104115.5"><vh>W17_2內容</vh></v>
+</v>
+<v t="leo.20190104105520.1" a="E"><vh>W17_3</vh>
+<v t="leo.20190104105520.2"><vh>W17_3內容</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -543,7 +562,7 @@ A. 組長:
 						
 </t>
 <t tx="leo.20190102191842.7">B. 各組員:
-  討論要做的項目為鋼球運動系統,並上網找資料。
+  討論要做的項目為鋼球運動系統，並上網找資料。
   
   https://www.youtube.com/watch?v=3OGyLHu24rk
   以上述網址為出發構想開始設計想加入系統內的物件。
@@ -564,7 +583,9 @@ A. 組長:
 
 &lt;img src ="./../images/week12-draw.jpg"  width="750" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
-↗可以讓球上升的裝置(by 05)↑</t>
+↗可以讓球上升的裝置(by 05)↑
+
+</t>
 <t tx="leo.20190102195003.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -645,7 +666,9 @@ A. 組長:
 </t>
 <t tx="leo.20190102195003.9">↓設計圓球大小
 
-&lt;img src ="./../images/design ball size.jpg"  width="650" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/design ball size.jpg"  width="650" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190102200652.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -667,7 +690,9 @@ A. 組長:
 
  (3) 設計集球處的弧度並繪製草圖(by 05)
  
- (4)手繪出構想設計圖(by 05) </t>
+ (4)手繪出構想設計圖(by 05) 
+
+</t>
 <t tx="leo.20190102212553.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -685,7 +710,9 @@ A. 組長:
 
 ↑加入旋轉軸心 / 整體設計圖↑
 
-(by 05)</t>
+(by 05)
+
+</t>
 <t tx="leo.20190102213523.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -736,7 +763,9 @@ A.組長:
 
 2. 設計部分零件尺寸並畫出設計草圖(by 05)
    
-3. 協助組長了解V-rep (by 01,11,50)</t>
+3. 協助組長了解V-rep (by 01,11,50)
+
+</t>
 <t tx="leo.20190102213523.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -756,7 +785,9 @@ A.組長:
 
 ↑階梯設計 / 樓梯外框設計↑
 
-(by 05,18)</t>
+(by 05,18)
+
+</t>
 <t tx="leo.20190102214504.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -803,7 +834,9 @@ B.組員:
 </t>
 <t tx="leo.20190102214504.5">↓各軌道之完成圖(by 18)
 
-&lt;img src ="./../images/orbit-onshape.jpg"  width="750" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/orbit-onshape.jpg"  width="750" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190102214504.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -819,7 +852,9 @@ B.組員:
 </t>
 <t tx="leo.20190102214504.7">↓其他零件完成圖(by 18)
 
-&lt;img src ="./../images/other-prt-onshape.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/other-prt-onshape.jpg"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190102214547.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -893,6 +928,124 @@ B.組員:
 * attend＆absence出缺席:記錄各組出席狀況
 
   ↑把上述列出的項目加入網站
+</t>
+<t tx="leo.20190102224347.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190102224347.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102224347.3">### 12/28 第16週
+
+◎組長與組員進度:
+
+A.組長:將MCAD設計繪圖零組件轉進V-rep並設定IK運算。(by 22) 
+
+</t>
+<t tx="leo.20190102224347.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190102224347.5">B.組員:
+
+1. 將每週的工作進度分配表完成。(by 05)
+
+2. 處理網站上衝突等問題及修改進度分配等內容。(by 01)
+
+3. 開始進行期末報告編寫。(by 01,05)
+
+4. 修改部分零件圖及組合圖配置等問題。(by 18)
+
+5. 協助組長完成設定IK運算。(by 11,18,50)
+
+6. 投影片的新增及修改。(by 01)</t>
+<t tx="leo.20190104104115.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190104104115.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190104104115.3">### 01/04 第17週
+
+◎組長與組員進度:
+
+A.組長:  在V-rep上進行模擬測試及修正。(by 22) 
+
+</t>
+<t tx="leo.20190104104115.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190104104115.5">B.組員:
+
+1. 將每週的工作進度分配表完成(by 01)
+ 
+2. 進行投影片的新增及修改。(by 01)
+
+3. 修改期末報告。(by 05)
+
+4. 修改部分零件圖及組合圖配置等問題。(by 18)
+
+5. 協助組長完成V-rep模擬測試。(by 11,18,50)
+
+</t>
+<t tx="leo.20190104105520.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190104105520.2">V-rep模擬測試圖
+
+&lt;img src ="./../images/17_vrep_test.PNG"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
 </tnodes>
 </leo_file>
