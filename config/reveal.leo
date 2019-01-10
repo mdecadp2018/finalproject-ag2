@@ -21,16 +21,16 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190110221138.1"><vh>零件</vh>
+<v t="leo.20190110221138.1" a="E"><vh>零件</vh>
 <v t="leo.20190110221138.2"><vh>零件介紹</vh></v>
 </v>
-<v t="leo.20190110212542.1"><vh>基本零件</vh>
+<v t="leo.20190110212542.1" a="E"><vh>基本零件</vh>
 <v t="leo.20190110212542.2" a="E"><vh>基本零件</vh>
 <v t="leo.20190110212542.3"><vh>基本零件_內容</vh></v>
 </v>
@@ -44,7 +44,7 @@
 <v t="leo.20190110212542.7"><vh>集球槽圖</vh></v>
 </v>
 </v>
-<v t="leo.20190110213900.1"><vh>上升零件</vh>
+<v t="leo.20190110213900.1" a="E"><vh>上升零件</vh>
 <v t="leo.20190110213900.2" a="E"><vh>上升零件</vh>
 <v t="leo.20190110213900.3"><vh>上升零件_內容</vh></v>
 </v>
@@ -70,7 +70,7 @@
 <v t="leo.20190110214519.2"><vh>凸輪</vh></v>
 </v>
 </v>
-<v t="leo.20190110213903.1"><vh>軌道</vh>
+<v t="leo.20190110213903.1" a="E"><vh>軌道</vh>
 <v t="leo.20190110213903.2" a="E"><vh>軌道</vh>
 <v t="leo.20190110213903.3"><vh>軌道內容</vh></v>
 </v>
@@ -87,7 +87,7 @@
 <v t="leo.20190110214840.2"><vh>軌道_4圖</vh></v>
 </v>
 </v>
-<v t="leo.20190110214923.1"><vh>配件</vh>
+<v t="leo.20190110214923.1" a="E"><vh>配件</vh>
 <v t="leo.20190110214923.2" a="E"><vh>配件</vh>
 <v t="leo.20190110214923.3"><vh>配件內容</vh></v>
 </v>
@@ -121,8 +121,8 @@
 <v t="leo.20190110211736.7"><vh>W11_3內容</vh></v>
 </v>
 </v>
-<v t="leo.20190102191842.1"><vh>11/30 第12週</vh>
-<v t="leo.20190102191842.2"><vh>W12_1</vh>
+<v t="leo.20190102191842.1" a="E"><vh>11/30 第12週</vh>
+<v t="leo.20190102191842.2" a="E"><vh>W12_1</vh>
 <v t="leo.20190102191842.3"><vh>W12_1內容</vh></v>
 </v>
 <v t="leo.20190102191842.4" a="E"><vh>W12_2</vh>
@@ -206,6 +206,23 @@
 </v>
 <v t="leo.20190104105520.1" a="E"><vh>W17_3</vh>
 <v t="leo.20190104105520.2"><vh>W17_3內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111010435.1" a="E"><vh>Vrep</vh>
+<v t="leo.20190111011126.1"><vh>1</vh>
+<v t="leo.20190111011126.2"><vh>軸圖</vh></v>
+</v>
+<v t="leo.20190111011124.1"><vh>2</vh>
+<v t="leo.20190111011124.2"><vh>軸圖</vh></v>
+</v>
+<v t="leo.20190111011120.1"><vh>3</vh>
+<v t="leo.20190111011120.2"><vh>軸圖</vh></v>
+</v>
+<v t="leo.20190111011052.1"><vh>4</vh>
+<v t="leo.20190111011052.2"><vh>軸圖</vh></v>
+</v>
+<v t="leo.20190111012955.1" a="E"><vh>5</vh>
+<v t="leo.20190111012955.2"><vh>軸圖</vh></v>
 </v>
 </v>
 <v t="leo.20190110221349.1"><vh>結論</vh>
@@ -317,6 +334,13 @@ Created by [AG2](https://github.com/mdecadp2018/finalproject-ag2)
 &lt;/small&gt;
 
 [2018 CADP AG2網誌](https://mdecadp2018.github.io/finalproject-ag2/content/index.html)
+
+[Onshape零件圖](https://cad.onshape.com/documents/254f51498ac1774917b46d04/w/188e9eeb72695110c5111901/e/3130f544bde3e7b8ac5141e5)
+
+[Vrep模擬檔](https://github.com/mdecadp2018/finalproject-ag2/blob/gh-pages/Vrep/ag2-22-2.ttt)
+
+
+
 
 
 </t>
@@ -1573,7 +1597,9 @@ A.組長:  在V-rep上進行模擬測試及修正。(by 22)
 
 						
 </t>
-<t tx="leo.20190110221138.2"># 零件介紹</t>
+<t tx="leo.20190110221138.2"># 零件介紹
+
+</t>
 <t tx="leo.20190110221349.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1602,5 +1628,93 @@ A.組長:  在V-rep上進行模擬測試及修正。(by 22)
 
 &lt;img src ="./../images/combination.jpg"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
+<t tx="leo.20190111010435.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20190111011052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190111011052.2">### Vrep模擬
+
+&lt;img src ="https://mdecadp2018.github.io/finalproject-ag2/images/switch2.gif"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190111011120.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190111011120.2">### Vrep模擬
+
+&lt;img src ="https://mdecadp2018.github.io/finalproject-ag2/images/switch1.gif"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190111011124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190111011124.2">### Vrep模擬
+
+&lt;img src ="https://mdecadp2018.github.io/finalproject-ag2/images/stair.gif"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190111011126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190111011126.2">### Vrep模擬
+
+&lt;img src ="https://mdecadp2018.github.io/finalproject-ag2/images/fiywheel.gif"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190111012955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190111012955.2">### Vrep模擬
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/3pXZS8n6qPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
