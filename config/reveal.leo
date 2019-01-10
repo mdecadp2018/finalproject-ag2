@@ -21,21 +21,101 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190102184955.1"><vh>11/23 第11週</vh>
-<v t="leo.20190102184955.2" a="E"><vh>W11_1</vh>
-<v t="leo.20190102184955.3"><vh>W11_1內容</vh></v>
+<v t="leo.20190110221138.1"><vh>零件</vh>
+<v t="leo.20190110221138.2"><vh>零件介紹</vh></v>
 </v>
-<v t="leo.20190102184955.4" a="E"><vh>W11_2</vh>
-<v t="leo.20190102184955.5"><vh>W11_2內容</vh></v>
+<v t="leo.20190110212542.1"><vh>基本零件</vh>
+<v t="leo.20190110212542.2" a="E"><vh>基本零件</vh>
+<v t="leo.20190110212542.3"><vh>基本零件_內容</vh></v>
 </v>
-<v t="leo.20190102184955.6" a="E"><vh>W11_3</vh>
-<v t="leo.20190102184955.7"><vh>W11_3內容</vh></v>
+<v t="leo.20190110213715.1" a="E"><vh>底盤</vh>
+<v t="leo.20190110213715.2"><vh>底盤圖</vh></v>
+</v>
+<v t="leo.20190110212542.4" a="E"><vh>彈珠檯</vh>
+<v t="leo.20190110212542.5"><vh>彈珠檯圖</vh></v>
+</v>
+<v t="leo.20190110212542.6" a="E"><vh>集球槽</vh>
+<v t="leo.20190110212542.7"><vh>集球槽圖</vh></v>
+</v>
+</v>
+<v t="leo.20190110213900.1"><vh>上升零件</vh>
+<v t="leo.20190110213900.2" a="E"><vh>上升零件</vh>
+<v t="leo.20190110213900.3"><vh>上升零件_內容</vh></v>
+</v>
+<v t="leo.20190110213900.4" a="E"><vh>摩天輪外殼</vh>
+<v t="leo.20190110213900.5"><vh>摩天輪外殼圖</vh></v>
+</v>
+<v t="leo.20190110213900.6" a="E"><vh>摩天輪</vh>
+<v t="leo.20190110213900.7"><vh>摩天輪圖</vh></v>
+</v>
+<v t="leo.20190110213900.8" a="E"><vh>樓梯外殼</vh>
+<v t="leo.20190110213900.9"><vh>樓梯外殼圖</vh></v>
+</v>
+<v t="leo.20190110214218.1" a="E"><vh>樓梯_1</vh>
+<v t="leo.20190110214218.2"><vh>樓梯_1圖</vh></v>
+</v>
+<v t="leo.20190110214220.1" a="E"><vh>樓梯_2</vh>
+<v t="leo.20190110214220.2"><vh>樓梯_2圖</vh></v>
+</v>
+<v t="leo.20190110214334.1" a="E"><vh>樓梯_3</vh>
+<v t="leo.20190110214334.2"><vh>樓梯_3圖</vh></v>
+</v>
+<v t="leo.20190110214519.1" a="E"><vh>凸輪</vh>
+<v t="leo.20190110214519.2"><vh>凸輪</vh></v>
+</v>
+</v>
+<v t="leo.20190110213903.1"><vh>軌道</vh>
+<v t="leo.20190110213903.2" a="E"><vh>軌道</vh>
+<v t="leo.20190110213903.3"><vh>軌道內容</vh></v>
+</v>
+<v t="leo.20190110213903.4" a="E"><vh>軌道_1</vh>
+<v t="leo.20190110213903.5"><vh>軌道_1圖</vh></v>
+</v>
+<v t="leo.20190110213903.6" a="E"><vh>軌道_2</vh>
+<v t="leo.20190110213903.7"><vh>軌道_2圖</vh></v>
+</v>
+<v t="leo.20190110213903.8" a="E"><vh>軌道_3</vh>
+<v t="leo.20190110213903.9"><vh>軌道_3圖</vh></v>
+</v>
+<v t="leo.20190110214840.1" a="E"><vh>軌道_4</vh>
+<v t="leo.20190110214840.2"><vh>軌道_4圖</vh></v>
+</v>
+</v>
+<v t="leo.20190110214923.1"><vh>配件</vh>
+<v t="leo.20190110214923.2" a="E"><vh>配件</vh>
+<v t="leo.20190110214923.3"><vh>配件內容</vh></v>
+</v>
+<v t="leo.20190110214923.6" a="E"><vh>球</vh>
+<v t="leo.20190110214923.7"><vh>球圖</vh></v>
+</v>
+<v t="leo.20190110214923.4" a="E"><vh>彈珠檯配件</vh>
+<v t="leo.20190110214923.5"><vh>彈珠檯配件圖</vh></v>
+</v>
+<v t="leo.20190110215446.1" a="E"><vh>銷_1</vh>
+<v t="leo.20190110215446.2"><vh>銷_1圖</vh></v>
+</v>
+<v t="leo.20190110215512.1" a="E"><vh>銷_2</vh>
+<v t="leo.20190110215512.2"><vh>銷_2圖</vh></v>
+</v>
+<v t="leo.20190110214923.10" a="E"><vh>軸</vh>
+<v t="leo.20190110214923.11"><vh>軸圖</vh></v>
+</v>
+</v>
+<v t="leo.20190110211736.1"><vh>11/23 第11週</vh>
+<v t="leo.20190110211736.2" a="E"><vh>W11_1</vh>
+<v t="leo.20190110211736.3"><vh>W11_1內容</vh></v>
+</v>
+<v t="leo.20190110211736.4" a="E"><vh>W11_2</vh>
+<v t="leo.20190110211736.5"><vh>W11_2內容</vh></v>
+</v>
+<v t="leo.20190110211736.6" a="E"><vh>W11_3</vh>
+<v t="leo.20190110211736.7"><vh>W11_3內容</vh></v>
 </v>
 </v>
 <v t="leo.20190102191842.1"><vh>11/30 第12週</vh>
@@ -114,8 +194,8 @@
 <v t="leo.20190102224347.5"><vh>W16_2內容</vh></v>
 </v>
 </v>
-<v t="leo.20190104104115.1" a="E"><vh>01/04 第17週</vh>
-<v t="leo.20190104104115.2" a="E"><vh>W17_1</vh>
+<v t="leo.20190104104115.1"><vh>01/04 第17週</vh>
+<v t="leo.20190104104115.2"><vh>W17_1</vh>
 <v t="leo.20190104104115.3"><vh>W17_1內容</vh></v>
 </v>
 <v t="leo.20190104104115.4" a="E"><vh>W17_2</vh>
@@ -124,6 +204,9 @@
 <v t="leo.20190104105520.1" a="E"><vh>W17_3</vh>
 <v t="leo.20190104105520.2"><vh>W17_3內容</vh></v>
 </v>
+</v>
+<v t="leo.20190110221349.1" a="E"><vh>結論</vh>
+<v t="leo.20190110221349.2"><vh>結論</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -423,79 +506,6 @@ make.start()
 
 
 						
-</t>
-<t tx="leo.20190102184955.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-
-</t>
-<t tx="leo.20190102184955.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-
-						
-</t>
-<t tx="leo.20190102184955.3">### 11/23 第11週
-
-◎組長與組員進度:
-利用 Heroku 雲端服務，伺服各分組的期末專題倉儲中的動態程式，並與 Github 倉儲內容保持自動同步。
-
-</t>
-<t tx="leo.20190102184955.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-
-						
-</t>
-<t tx="leo.20190102184955.5">### 步驟：
-
-*  先創一個heroku的帳號
-
-*  登入後,按new → create new app → 名字打 cadp2018-ag2-m2
-
-*  先去 start.bat 路徑設定 %Disk%:\heroku\bin;
-
-*  在從命令列打heroku--version → heroku login
-
-*  再從settings找到https://git.heroku.com/cadp2018-ag2-m2.git 的網址
-</t>
-<t tx="leo.20190102184955.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-						
-</t>
-<t tx="leo.20190102184955.7">*  至https://github.com/mdecadp2018/finalproject-ag2 fork自己的帳號
-
-*  git clone https://github.com/mdecadp2018/finalproject-ag2 至tmp底下的資料夾 ag2
-
-*  git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
- 
-*  將ag2資料夾中的檔案複製到ag2-m2的資料夾中
-
-*  git add . → git commit -m "  " → git push
 </t>
 <t tx="leo.20190102191842.1">&lt;section&gt;
 @others
@@ -1048,6 +1058,533 @@ A.組長:  在V-rep上進行模擬測試及修正。(by 22)
 <t tx="leo.20190104105520.2">V-rep模擬測試圖
 
 &lt;img src ="./../images/17_vrep_test.PNG"  width="700" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110211736.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190110211736.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110211736.3">### 11/23 第11週
+
+◎組長與組員進度:
+利用 Heroku 雲端服務，伺服各分組的期末專題倉儲中的動態程式，並與 Github 倉儲內容保持自動同步。
+
+</t>
+<t tx="leo.20190110211736.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110211736.5">### 步驟：
+
+*  先創一個heroku的帳號
+
+*  登入後,按new → create new app → 名字打 cadp2018-ag2-m2
+
+*  先去 start.bat 路徑設定 %Disk%:\heroku\bin;
+
+*  在從命令列打heroku--version → heroku login
+
+*  再從settings找到https://git.heroku.com/cadp2018-ag2-m2.git 的網址
+</t>
+<t tx="leo.20190110211736.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110211736.7">*  至https://github.com/mdecadp2018/finalproject-ag2 fork自己的帳號
+
+*  git clone https://github.com/mdecadp2018/finalproject-ag2 至tmp底下的資料夾 ag2
+
+*  git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
+ 
+*  將ag2資料夾中的檔案複製到ag2-m2的資料夾中
+
+*  git add . → git commit -m "  " → git push
+</t>
+<t tx="leo.20190110212542.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190110212542.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110212542.3"># 基本零件
+
+
+</t>
+<t tx="leo.20190110212542.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110212542.5">### 彈珠檯
+
+&lt;img src ="./../images/pinball.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110212542.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110212542.7">### 集球槽
+
+&lt;img src ="./../images/collect.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110213715.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213715.2">### 底盤
+
+&lt;img src ="./../images/flat.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110213900.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190110213900.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213900.3"># 上升零件
+
+
+</t>
+<t tx="leo.20190110213900.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213900.5">### 摩天輪外殼
+
+&lt;img src ="./../images/flywheel bracket.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110213900.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213900.7">### 摩天輪
+
+&lt;img src ="./../images/flywheel.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110213900.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213900.9">### 樓梯外殼
+
+&lt;img src ="./../images/guard board.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110213903.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190110213903.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213903.3"># 軌道
+
+
+</t>
+<t tx="leo.20190110213903.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213903.5">### 軌道_1
+
+&lt;img src ="./../images/path1.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110213903.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213903.7">### 軌道_2
+
+&lt;img src ="./../images/path2.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110213903.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110213903.9">### 軌道_3
+
+&lt;img src ="./../images/path3.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214218.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214218.2">### 樓梯_1
+
+&lt;img src ="./../images/stair1.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214220.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214220.2">### 樓梯_2
+
+&lt;img src ="./../images/stair2.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214334.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214334.2">### 樓梯_3
+
+&lt;img src ="./../images/stair3.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214519.2">### 凸輪
+
+&lt;img src ="./../images/camshaft.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214840.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214840.2">### 軌道_4
+
+&lt;img src ="./../images/path4.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214923.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190110214923.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214923.11">### 軸
+
+&lt;img src ="./../images/axis 5x36.png"  width="460" height="290" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/axis 30x120.png"  width="460" height="290" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110214923.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214923.3"># 配件
+
+
+</t>
+<t tx="leo.20190110214923.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214923.5">### 彈珠檯配件
+
+&lt;img src ="./../images/seesaw.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110214923.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190110214923.7">### 球
+
+&lt;img src ="./../images/ball.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190110215446.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110215446.2">### 銷_1
+
+&lt;img src ="./../images/pole1.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/pole2.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/pole3.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110215512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20190110215512.2">### 銷_2
+
+&lt;img src ="./../images/pole4.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/pole5.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/pole6.png"  width="380" height="250" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190110221138.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110221138.2"># 零件介紹</t>
+<t tx="leo.20190110221349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110221349.2">## 結論
+
+經過了這一學期的課程，體會到同步的好處及壞處，期中之前可能還沒什麼感覺，因為都是做自己的東西，然後推自己的倉儲，不過期中後的分組專案，可就不是如此，每個人負責的部分都不太一樣，而同步使我們工作起來更有效率，因為大家可以一起工作，然後讓電腦自己去做同步。
+
+
 </t>
 </tnodes>
 </leo_file>
