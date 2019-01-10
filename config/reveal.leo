@@ -107,6 +107,9 @@
 <v t="leo.20190110214923.11"><vh>軸圖</vh></v>
 </v>
 </v>
+<v t="leo.20190110223555.1"><vh>零件組合</vh>
+<v t="leo.20190110223555.2"><vh>零件組合圖</vh></v>
+</v>
 <v t="leo.20190110211736.1"><vh>11/23 第11週</vh>
 <v t="leo.20190110211736.2" a="E"><vh>W11_1</vh>
 <v t="leo.20190110211736.3"><vh>W11_1內容</vh></v>
@@ -205,7 +208,7 @@
 <v t="leo.20190104105520.2"><vh>W17_3內容</vh></v>
 </v>
 </v>
-<v t="leo.20190110221349.1" a="E"><vh>結論</vh>
+<v t="leo.20190110221349.1"><vh>結論</vh>
 <v t="leo.20190110221349.2"><vh>結論</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -1585,6 +1588,19 @@ A.組長:  在V-rep上進行模擬測試及修正。(by 22)
 經過了這一學期的課程，體會到同步的好處及壞處，期中之前可能還沒什麼感覺，因為都是做自己的東西，然後推自己的倉儲，不過期中後的分組專案，可就不是如此，每個人負責的部分都不太一樣，而同步使我們工作起來更有效率，因為大家可以一起工作，然後讓電腦自己去做同步。
 
 
+</t>
+<t tx="leo.20190110223555.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110223555.2">### 零件組合
+
+&lt;img src ="./../images/combination.jpg"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
 </tnodes>
 </leo_file>
